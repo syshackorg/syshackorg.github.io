@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-562 -253 1948 822.5" width="1948" height="822.5">
+  <defs>
+    <font-face font-family="Apple Color Emoji" font-size="199" units-per-em="1000" underline-position="-93.75005" underline-thickness="62.50003" slope="0" x-height="625.0003" cap-height="1000.0005" ascent="1000.0005" descent="-312.50016" font-weight="400">
+      <font-face-src>
+        <font-face-name name="AppleColorEmoji"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Herculanum" font-size="92" panose-1="2 0 5 5 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="602" cap-height="625" ascent="794.9982" descent="-205.00183" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Herculanum"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="#666">
+      <g>
+        <path d="M 2.1333333 0 L 0 -.8 L 0 .8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Apple Color Emoji" font-size="162" units-per-em="1000" underline-position="-93.75006" underline-thickness="62.50004" slope="0" x-height="625.0004" cap-height="1000.0006" ascent="1000.0006" descent="-312.5002" font-weight="400">
+      <font-face-src>
+        <font-face-name name="AppleColorEmoji"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.17.4\n2020-10-20 17:49:10 +0000</metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_24">
+        <g id="Group_23">
+          <g id="Graphic_2">
+            <path d="M 408.5 194 L 584.2076 321.6593 L 517.09346 528.2157 L 299.90654 528.2157 L 232.7924 321.6593 Z" fill="#ccc"/>
+            <path d="M 408.5 194 L 584.2076 321.6593 L 517.09346 528.2157 L 299.90654 528.2157 L 232.7924 321.6593 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+          </g>
+          <g id="Group_22">
+            <g id="Graphic_5">
+              <text transform="translate(309 248.25)" fill="black">
+                <tspan font-family="Apple Color Emoji" font-size="199" font-weight="400" fill="black" x="0" y="199">🍎</tspan>
+              </text>
+            </g>
+            <g id="Graphic_3">
+              <text transform="translate(380 343.25)" fill="white">
+                <tspan font-family="Herculanum" font-size="92" font-weight="400" fill="white" x="0" y="73">K</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_9">
+          <circle cx="-142" cy="-126" r="49.0000782971929" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        </g>
+        <g id="Line_10">
+          <line x1="-86.99997" y1="-126" x2="163.1" y2="-126" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        </g>
+        <g id="Line_12">
+          <line x1="611" y1="-126.10422" x2="1337.1" y2="-126.47792" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        </g>
+        <g id="Line_13">
+          <path d="M 951.2651 -126.27934 L 951.2651 379 L 783 379 L 625.5449 378.75 L 614.8665 378.75" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        </g>
+        <g id="Line_14">
+          <path d="M 245.0335 378.75 L 229.35514 378.75 L 204 379 L -142 379 L -142 -28.099973" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        </g>
+        <g id="Line_15">
+          <line x1="-556" y1="-125.5" x2="-227.89996" y2="-125.89626" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        </g>
+        <g id="Group_17">
+          <g id="Graphic_8">
+            <rect x="212" y="-247" width="393" height="242" fill="#ccc"/>
+            <rect x="212" y="-247" width="393" height="242" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+          </g>
+          <g id="Graphic_16">
+            <text transform="translate(327.5 -232.5)" fill="black">
+              <tspan font-family="Apple Color Emoji" font-size="162" font-weight="400" fill="black" x="0" y="162">🌱</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
