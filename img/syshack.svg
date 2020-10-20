@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-562 -253 1948 822.5" width="1948" height="822.5">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="-562 -253 1948 822.5" width="1948" height="822.5">
   <defs>
-    <font-face font-family="Apple Color Emoji" font-size="199" units-per-em="1000" underline-position="-93.75005" underline-thickness="62.50003" slope="0" x-height="625.0003" cap-height="1000.0005" ascent="1000.0005" descent="-312.50016" font-weight="400">
-      <font-face-src>
-        <font-face-name name="AppleColorEmoji"/>
-      </font-face-src>
-    </font-face>
-    <font-face font-family="Herculanum" font-size="92" panose-1="2 0 5 5 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="602" cap-height="625" ascent="794.9982" descent="-205.00183" font-weight="400">
-      <font-face-src>
-        <font-face-name name="Herculanum"/>
-      </font-face-src>
-    </font-face>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="#666">
       <g>
         <path d="M 2.1333333 0 L 0 -.8 L 0 .8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
@@ -22,58 +12,60 @@
         <font-face-name name="AppleColorEmoji"/>
       </font-face-src>
     </font-face>
+    <font-face font-family="Apple Color Emoji" font-size="199" units-per-em="1000" underline-position="-93.75005" underline-thickness="62.50003" slope="0" x-height="625.0003" cap-height="1000.0005" ascent="1000.0005" descent="-312.50016" font-weight="400">
+      <font-face-src>
+        <font-face-name name="AppleColorEmoji"/>
+      </font-face-src>
+    </font-face>
   </defs>
-  <metadata> Produced by OmniGraffle 7.17.4\n2020-10-20 17:49:10 +0000</metadata>
-  <g id="Canvas_1" fill-opacity="1" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1">
+  <metadata> Produced by OmniGraffle 7.17.4\n2020-10-20 21:05:10 +0000</metadata>
+  <g id="Canvas_1" fill="none" fill-opacity="1" stroke="none" stroke-opacity="1" stroke-dasharray="none">
     <title>Canvas 1</title>
     <g id="Canvas_1_Layer_1">
       <title>Layer 1</title>
-      <g id="Group_24">
-        <g id="Group_23">
-          <g id="Graphic_2">
-            <path d="M 408.5 194 L 584.2076 321.6593 L 517.09346 528.2157 L 299.90654 528.2157 L 232.7924 321.6593 Z" fill="#ccc"/>
-            <path d="M 408.5 194 L 584.2076 321.6593 L 517.09346 528.2157 L 299.90654 528.2157 L 232.7924 321.6593 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
-          </g>
-          <g id="Group_22">
-            <g id="Graphic_5">
-              <text transform="translate(309 248.25)" fill="black">
-                <tspan font-family="Apple Color Emoji" font-size="199" font-weight="400" fill="black" x="0" y="199">🍎</tspan>
-              </text>
-            </g>
-            <g id="Graphic_3">
-              <text transform="translate(380 343.25)" fill="white">
-                <tspan font-family="Herculanum" font-size="92" font-weight="400" fill="white" x="0" y="73">K</tspan>
-              </text>
-            </g>
-          </g>
+      <g id="Graphic_9">
+        <circle cx="-142" cy="-126" r="49.0000782971929" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Line_10">
+        <line x1="-86.99997" y1="-126" x2="163.1" y2="-126" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Line_12">
+        <line x1="611" y1="-126.10422" x2="1337.1" y2="-126.47792" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Line_13">
+        <path d="M 951.2651 -126.27934 L 951.2651 379 L 783 379 L 625.5449 378.75 L 614.8665 378.75" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Line_14">
+        <path d="M 245.0335 378.75 L 229.35514 378.75 L 204 379 L -142 379 L -142 -28.099973" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Line_15">
+        <line x1="-556" y1="-125.5" x2="-227.89996" y2="-125.89626" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Group_17">
+        <g id="Graphic_8">
+          <rect x="212" y="-247" width="393" height="242" fill="#ccc"/>
+          <rect x="212" y="-247" width="393" height="242" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
         </g>
-        <g id="Graphic_9">
-          <circle cx="-142" cy="-126" r="49.0000782971929" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <g id="Graphic_16">
+          <text transform="translate(327.5 -232.5)" fill="black">
+            <tspan font-family="Apple Color Emoji" font-size="162" font-weight="400" fill="black" x="0" y="162">🌱</tspan>
+          </text>
         </g>
-        <g id="Line_10">
-          <line x1="-86.99997" y1="-126" x2="163.1" y2="-126" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Group_56">
+        <g id="Graphic_2">
+          <path d="M 408.5 194 L 584.2076 321.6593 L 517.09346 528.2157 L 299.90654 528.2157 L 232.7924 321.6593 Z" fill="#ccc"/>
+          <path d="M 408.5 194 L 584.2076 321.6593 L 517.09346 528.2157 L 299.90654 528.2157 L 232.7924 321.6593 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
         </g>
-        <g id="Line_12">
-          <line x1="611" y1="-126.10422" x2="1337.1" y2="-126.47792" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
-        </g>
-        <g id="Line_13">
-          <path d="M 951.2651 -126.27934 L 951.2651 379 L 783 379 L 625.5449 378.75 L 614.8665 378.75" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
-        </g>
-        <g id="Line_14">
-          <path d="M 245.0335 378.75 L 229.35514 378.75 L 204 379 L -142 379 L -142 -28.099973" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
-        </g>
-        <g id="Line_15">
-          <line x1="-556" y1="-125.5" x2="-227.89996" y2="-125.89626" marker-end="url(#FilledArrow_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
-        </g>
-        <g id="Group_17">
-          <g id="Graphic_8">
-            <rect x="212" y="-247" width="393" height="242" fill="#ccc"/>
-            <rect x="212" y="-247" width="393" height="242" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
-          </g>
-          <g id="Graphic_16">
-            <text transform="translate(327.5 -232.5)" fill="black">
-              <tspan font-family="Apple Color Emoji" font-size="162" font-weight="400" fill="black" x="0" y="162">🌱</tspan>
+        <g id="Group_55">
+          <g id="Graphic_5">
+            <text transform="translate(309 248.25)" fill="black">
+              <tspan font-family="Apple Color Emoji" font-size="199" font-weight="400" fill="black" x="0" y="199">🍎</tspan>
             </text>
+          </g>
+          <g id="Graphic_54">
+            <title>K</title>
+            <path d="M 399.872 383.314 L 397.572 382.486 C 397.572 380.70732 397.64867 378.852 397.802 376.92 C 397.95533 374.988 398.10867 373.148 398.262 371.4 C 398.41533 369.652 398.56867 368.05734 398.722 366.616 C 398.87533 365.17466 398.952 364.02467 398.952 363.166 C 398.952 362.798 398.768 362.39934 398.4 361.97 C 398.032 361.54066 397.618 361.142 397.158 360.774 C 396.698 360.406 396.25334 360.09933 395.824 359.854 C 395.39466 359.60867 395.088 359.486 394.904 359.486 C 394.78133 359.486 394.628 359.51667 394.444 359.578 C 394.26 359.63933 393.984 359.808 393.616 360.084 C 393.248 360.36 392.71134 360.75866 392.006 361.28 C 391.30066 361.80134 390.36534 362.522 389.2 363.442 C 389.07733 363.56467 388.97 363.68733 388.878 363.81 C 388.786 363.93267 388.74 364.14733 388.74 364.454 C 388.74 364.638 388.84733 364.80667 389.062 364.96 C 389.27667 365.11333 389.522 365.31267 389.798 365.558 C 390.074 365.80333 390.35 366.11 390.626 366.478 C 390.902 366.846 391.07067 367.33666 391.132 367.95 C 391.43867 371.63 391.684 375.3253 391.868 379.036 C 392.052 382.7467 392.144 386.442 392.144 390.122 C 392.144 392.6367 392.11333 395.07465 392.052 397.436 C 391.99067 399.79735 391.94467 401.97466 391.914 403.968 C 391.88333 405.96134 391.83733 407.66333 391.776 409.074 C 391.71467 410.48467 391.684 411.52733 391.684 412.202 C 391.684 413.9807 391.776 415.1 391.96 415.56 C 392.144 416.02 392.45066 416.25 392.88 416.25 C 393.18667 416.25 393.616 416.08134 394.168 415.744 C 394.72 415.40666 395.272 414.97734 395.824 414.456 C 396.376 413.93466 396.85133 413.398 397.25 412.846 C 397.64867 412.294 397.848 411.834 397.848 411.466 C 397.848 410.362 397.83267 408.798 397.802 406.774 C 397.77133 404.75 397.74067 402.588 397.71 400.288 C 397.67933 397.988 397.64867 395.7187 397.618 393.48 C 397.58733 391.2413 397.572 389.35534 397.572 387.822 C 398.124 387.822 399.32 388.25133 401.16 389.11 C 403 389.96867 405.668 391.44066 409.164 393.526 C 412.66 395.61134 417.10664 398.4173 422.504 401.944 C 427.90136 405.4707 434.46396 409.90197 442.192 415.238 C 443.41867 416.03534 444.308 416.618 444.86 416.986 C 445.412 417.354 445.99466 417.538 446.608 417.538 C 447.03734 417.538 447.60466 417.29267 448.31 416.802 C 449.01534 416.31133 449.70533 415.744 450.38 415.1 C 451.05467 414.456 451.63733 413.812 452.128 413.168 C 452.61867 412.524 452.864 412.018 452.864 411.65 C 452.864 411.282 452.61867 411.006 452.128 410.822 C 451.63733 410.638 451.03934 410.48467 450.334 410.362 C 449.62866 410.23933 448.89267 410.10133 448.126 409.948 C 447.35933 409.79467 446.66934 409.56467 446.056 409.258 C 442.13065 407.2953 438.006 405.04135 433.682 402.496 C 429.358 399.95065 425.264 397.482 421.4 395.09 C 417.536 392.698 414.1627 390.56668 411.28 388.696 C 408.3973 386.82532 406.404 385.55267 405.3 384.878 C 405.97467 384.26466 406.98666 383.43667 408.336 382.394 C 409.68534 381.35133 411.188 380.232 412.844 379.036 C 414.5 377.84 416.2173 376.62867 417.996 375.402 C 419.7747 374.17533 421.446 373.056 423.01 372.044 C 424.574 371.032 425.93866 370.204 427.104 369.56 C 428.26934 368.916 429.06666 368.56333 429.496 368.502 C 430.17067 368.37933 430.63067 368.21067 430.876 367.996 C 431.12133 367.78133 431.244 367.49 431.244 367.122 C 431.244 366.63133 431.04467 365.95667 430.646 365.098 C 430.24733 364.23933 429.83334 363.718 429.404 363.534 C 428.484 363.10466 427.794 362.76733 427.334 362.522 C 426.874 362.27667 426.49067 362.154 426.184 362.154 C 425.75466 362.154 425.402 362.27667 425.126 362.522 C 424.85 362.76733 424.51267 363.13533 424.114 363.626 C 423.71533 364.11667 423.16334 364.71466 422.458 365.42 C 421.75266 366.12534 420.756 366.96866 419.468 367.95 Z" fill="white"/>
           </g>
         </g>
       </g>
